@@ -1,7 +1,7 @@
 class people::unasuke{
 	
 	# core modules
-	include xquartz
+	#include xquartz
 
 	# web browser
 	include chrome
