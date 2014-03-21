@@ -56,3 +56,27 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+## unasuke setting
+# web browser
+github "chrome",      "1.1.2"
+github "firefox",     "1.1.8"
+github "opera",       "0.3.2"
+
+# voip
+github "skype",       "1.0.8"
+
+# memo
+github "evernote",    "2.0.5"
+
+# player
+github "vlc",         "1.0.5"
+
+# utility
+github "dropbox",     "1.2.0"
+github "keyremap4macbook",    "1.2.2"
+github "better_touch_tools",  "1.0.0"
+
+# editor
+github "sublime_text_2",      "1.1.2"
+github "macvim_kaoriya",      "1.1.0",  :repo => "boxelly/puppet-macvim_kaoriya"
