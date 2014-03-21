@@ -74,6 +74,7 @@ github "vlc",         "1.0.5"
 
 # utility
 github "dropbox",     "1.2.0"
+guthub "virtualbox",  "1.0.11"
 github "keyremap4macbook",    "1.2.2"
 github "better_touch_tools",  "1.0.0"
 
