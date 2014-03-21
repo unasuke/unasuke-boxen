@@ -73,11 +73,12 @@ github "evernote",    "2.0.5"
 github "vlc",         "1.0.5"
 
 # utility
-github "dropbox",     "1.2.0"
-guthub "virtualbox",  "1.0.11"
+github "dropbox",             "1.2.0"
+guthub "virtualbox",          "1.0.11"
 github "keyremap4macbook",    "1.2.2"
 github "better_touch_tools",  "1.0.0"
 
 # editor
+github "mou",                 "1.0.1"
 github "sublime_text_2",      "1.1.2"
 github "macvim_kaoriya",      "1.1.0",  :repo => "boxelly/puppet-macvim_kaoriya"

@@ -47,5 +47,8 @@ class people::unasuke{
 		# scroll setting
 		'Scroll Reverser':
 		source		=> "https://d20vhy8jiniubf.cloudfront.net/downloads/ScrollReverser-1.6.zip,		provider	=> compressed_app;
+
+		# typing sound
+		# noisy typer
 	}
 }	
